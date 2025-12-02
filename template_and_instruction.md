@@ -1,3 +1,8 @@
+Template and Instructiom for using it
+
+--Bismillah--
+
+```Markdown iA Writer
 # Your Name Here
 email@example.com | (555) 123-4567 | linkedin.com/in/yourname | city, country
 
@@ -35,7 +40,10 @@ A senior professional with 10+ years of experience in [Industry]. Specialized in
 - **Technical:** Python, SQL, React, AWS, Docker, Kubernetes.
 - **Design:** Adobe Creative Suite, Figma, Sketch, iA Writer Templates.
 
+```
+
 ## Template Guide (Delete this section when exporting)
+
 
 This document uses your custom **GitHub CV** template with **Lora** (Headers) and **Jost** (Body). Here is how to format your text to make it look right:
 
